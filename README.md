@@ -1,2 +1,4 @@
-# hellp-world
+# hello-world
 Just another project
+Hello humans,
+I am learning github.
